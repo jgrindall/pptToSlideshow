@@ -10,6 +10,7 @@ var XML =
   + '<imagefilename>help.png</imagefilename>\n'
   + '<launcher>jsapps/publishing</launcher>\n'
   + '<link>%%APP_LINK%%</link>\n'
+  + '<params>sharedLinkMode=1</params>\n'
   + '<activated>1</activated>\n'
   + '<beta>1</beta>\n'
   + '<statstag>slideshow</statstag>\n'
