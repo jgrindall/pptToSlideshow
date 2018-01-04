@@ -1,0 +1,28 @@
+{
+  	"name": "2simplePPTtoslideshow",
+  	"version": "0.0.1",
+  	"description": "2simplePPT->slideshow",
+  	"main": "web.js",
+    "repository": {
+    },
+  	"scripts": {
+    	"test": "echo \"Error: no test specified\" && exit 1"
+ 	 },
+  	"author": "jgrindall",
+  	"license": "BSD",
+  	"dependencies": {
+		"mkdirp":"latest",
+		"adm-zip":"0.4.4",
+		"bluebird":"latest",
+		"underscore":"latest",
+		"sharp":"latest",
+		"rimraf":"latest",
+		"leven":"latest",
+		"fs-extra":"latest",
+		"jimp":"latest",
+		"zip-folder":"latest",
+		"express": "~3.5.1",
+		"formidable":"latest",
+		"extract-zip":"latest"
+  	}
+}
